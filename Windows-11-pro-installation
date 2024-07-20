@@ -1,0 +1,22 @@
+# My New GitHub Repository
+
+## Description
+This repository contains files related to creating a bootable drive for Windows 11 Pro installation and an OS flash drive.
+
+## Installation Instructions
+1. Download the Windows 11 Pro installation files.
+2. Prepare a USB drive with sufficient storage capacity.
+3. Use a tool like Rufus to create a bootable Windows 11 Pro installation drive.
+4. Follow the on-screen instructions to complete the process.
+
+## OS Flash Drive Creation
+1. Download the OS image file you want to create a bootable drive for.
+2. Insert a USB flash drive into your computer.
+3. Use a tool like Etcher to flash the OS image onto the USB drive.
+4. Eject the drive safely once the process is complete.
+
+## Contributors
+- John Doe
+- Jane Smith
+
+Feel free to contribute to this repository by forking it and creating a pull request with your changes.
